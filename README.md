@@ -1,6 +1,8 @@
 # Face-Detection-Using-OpenCV
 ![Python](https://img.shields.io/badge/python-3.8-brightgreen.svg)
+
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-2.4-orange.svg)
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.2.0-blue.svg)
 
 This is a Face Mask Detection Python script
