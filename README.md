@@ -5,5 +5,5 @@ I have Used CVlib to detect Face and CNN model to predict whether a person is we
 Dataset--->https://drive.google.com/drive/folders/1EO64wZcTuPws4djMxeEITA_RWo7HrggU?usp=sharing 
 
 
-![GIF](Face mask Detection.gif)
+![GIF](Face_mask_Detection.gif)
 
